@@ -1,0 +1,2 @@
+# Wallace_4x4_DesignProject_FPGA
+Multiplication is one of the most commonly used operations in the arithmetic. Multipliers based on Wallace reduction tree provide an area-efficient strategy for high speed multiplication. A number of modifications are proposed in the literature to optimize the area of the Wallace multiplier. This paper proposed a reduced-area Wallace multiplier without compromising on the speed of the original Wallace multiplier.
